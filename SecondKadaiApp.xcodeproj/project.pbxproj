@@ -12,6 +12,7 @@
 		E7247A3E1C7CBBD700F56B22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7247A3C1C7CBBD700F56B22 /* Main.storyboard */; };
 		E7247A401C7CBBD700F56B22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7247A3F1C7CBBD700F56B22 /* Assets.xcassets */; };
 		E7247A431C7CBBD700F56B22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7247A411C7CBBD700F56B22 /* LaunchScreen.storyboard */; };
+		E7247A4B1C7CBDCA00F56B22 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7247A4A1C7CBDCA00F56B22 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E7247A3F1C7CBBD700F56B22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7247A421C7CBBD700F56B22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7247A441C7CBBD800F56B22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7247A4A1C7CBDCA00F56B22 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E7247A381C7CBBD700F56B22 /* AppDelegate.swift */,
 				E7247A3A1C7CBBD700F56B22 /* ViewController.swift */,
 				E7247A3C1C7CBBD700F56B22 /* Main.storyboard */,
+				E7247A4A1C7CBDCA00F56B22 /* ResultViewController.swift */,
 				E7247A3F1C7CBBD700F56B22 /* Assets.xcassets */,
 				E7247A411C7CBBD700F56B22 /* LaunchScreen.storyboard */,
 				E7247A441C7CBBD800F56B22 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				E7247A3B1C7CBBD700F56B22 /* ViewController.swift in Sources */,
 				E7247A391C7CBBD700F56B22 /* AppDelegate.swift in Sources */,
+				E7247A4B1C7CBDCA00F56B22 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
